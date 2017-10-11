@@ -1,0 +1,5 @@
+
+.reveal ul.no-bullet {
+    list-style-type: none !important;
+    border: 1px solid red;
+}
